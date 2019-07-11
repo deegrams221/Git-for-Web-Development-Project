@@ -11,4 +11,4 @@ Stretch
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
         - I installed GitHub
 - [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
-
+        - completed SSH keys setup
